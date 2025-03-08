@@ -19,11 +19,12 @@ The objective of this project is to analyze employee attrition patterns and iden
 - Average Salary
 - Average Years at Company
 
+# Dashboard Image
+## <a href = "https://github.com/AkashKumar-47/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png">Image</a>
 # Process of the Project
 ## Data Collection:
-Dataset used: HR_Analytics 
-- Key columns: 'EmpID', 'Age', 'AgeGroup', 'Attrition', 'BusinessTravel', 'Department', 'JobRole', 'Education', 'Gender', 'MonthlyIncome', 'YearsAtCompany', and others.
-Data Cleaning & Transformation:
+Dataset used: <a href = "https://github.com/AkashKumar-47/HR-Analytics/blob/main/HR_Analytics.csv">HR_Analytics</a> 
+## Data Cleaning & Transformation:
 - Checked for missing values and handled them appropriately.
 - Ensured proper data types for each field (e.g., numerical, categorical).
 - Created calculated measures: 
@@ -31,7 +32,7 @@ Data Cleaning & Transformation:
   - Average Age
   - Average Salary
   - Average Years at Company
-Dashboard Creation:
+## Dashboard Creation:
 - Built interactive visualizations using Power BI: 
   - Attrition by Salary and Job Role (Stacked Bar Chart)
   - Attrition by Age (Stacked Column Chart)
