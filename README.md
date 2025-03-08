@@ -20,7 +20,7 @@ The objective of this project is to analyze employee attrition patterns and iden
 - Average Years at Company
 
 # Dashboard Image
-## <a href = "https://github.com/AkashKumar-47/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png">Image</a>
+- <a href = "https://github.com/AkashKumar-47/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png">Image</a>
 # Process of the Project
 ## Data Collection:
 Dataset used: <a href = "https://github.com/AkashKumar-47/HR-Analytics/blob/main/HR_Analytics.csv">HR_Analytics</a> 
@@ -41,3 +41,18 @@ Dataset used: <a href = "https://github.com/AkashKumar-47/HR-Analytics/blob/main
   - Attrition Count by Job Role (Matrix)
   - Key Metrics (Cards for Total Employees, Total Attrition, Attrition Rate, Average Age, Average Salary, and Average Years)
 - Added interactive slicers for Department and Gender to enable dynamic exploration.
+
+# Project Insights
+## Salary and Job Role Impact: 
+- Employees with lower salaries show higher attrition, particularly in certain job roles.
+## Age and Attrition: 
+- Younger employees (in their 20s and early 30s) show a higher attrition rate compared to older employees.
+## Experience and Attrition: 
+- Employees with fewer years of experience at the company are more likely to leave.
+## Education and Attrition: 
+- Certain education levels, particularly lower levels, have a higher attrition rate.
+## Job Role Analysis: 
+- Specific job roles (e.g., Sales and Technical roles) exhibit the highest attrition counts.
+
+## Dashboard Image
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/903a6bef-d862-4329-9ffc-5ebfe847b806)
