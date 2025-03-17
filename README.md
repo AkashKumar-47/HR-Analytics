@@ -51,9 +51,9 @@ Dataset used: <a href = "https://github.com/AkashKumar-47/HR-Analytics/blob/main
 ## Job Role Analysis: 
 - Specific job roles (e.g., Sales and Technical roles) exhibit the highest attrition counts.
 
-## Dashboard Image
+# Dashboard Image
 ![HR Analytics Dashboard](https://github.com/user-attachments/assets/903a6bef-d862-4329-9ffc-5ebfe847b806)
 
-## Final Conclusion
+# Final Conclusion
 - The Power BI dashboard effectively visualizes key attrition drivers, providing actionable insights for HR teams to address employee turnover. The analysis highlights the influence of salary, age, and job roles on attrition while enabling stakeholders to drill down by department and gender.
 - By monitoring these trends, HR departments can make data-driven decisions to reduce attrition and improve employee retention strategies.
